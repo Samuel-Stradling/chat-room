@@ -1,0 +1,35 @@
+*{
+    background-color: rgb(255, 246, 222);
+}
+
+/*header section*/
+header, #header-h2{
+    background-color: rgb(248, 208, 99);
+    padding: 8.5px;
+    color: rgb(97, 97, 97);
+    font-family: Arial, Helvetica, sans-serif;
+    }
+#header-h1{
+    background-color: rgb(248, 208, 99);
+    font-size: xxx-large;
+}
+p {
+    font-family: 'Arial', sans-serif; 
+    font-size: 16px; 
+    line-height: 1.5; 
+    padding: 10px;
+    padding-left: 20%; 
+    padding-right: 20%;
+    background-color: rgb(255, 246, 222); 
+    color: #333; 
+    text-align: justify; 
+    border-radius: 5px; 
+
+}
+
+
+
+
+body {
+    margin:0%
+}
