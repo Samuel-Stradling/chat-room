@@ -5,7 +5,7 @@ app = Flask(__name__)
 # when the directory is '/' , the function returns the html following
 @app.route("/")
 def hello_world():
-    return "<p>Hello, world</p>"
+    return '<p>Hello, world</p><a href="/login">login</a>'
 
 
 # when a user visits the home directory with /login , flask goes to the templates folder and renders loginpage.html
