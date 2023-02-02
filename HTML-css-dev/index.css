@@ -4,14 +4,15 @@
 
 /*header section*/
 header{
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 8%;
+    margin-right: 8%;
     padding: 8.5px;
     padding-top: 20px;
     color: rgb(0, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
     background: url("headerbg.jpg");
-    background-size: 10%;
+    background-size: 30%;
+    background-blend-mode: color;
     }
 
 #header-h2{
